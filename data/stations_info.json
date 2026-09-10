@@ -6495,4 +6495,26 @@
         ],
         "likes": 0
     }
+    {
+        "url": "https://nova.vcrauo.com/",
+        "domain": "nova.vcrauo.com",
+        "name": "Orbelis",
+        "description": "AI API中转服务，支持Claude、GPT、Gemini、Grok及图像模型。倍率约0.04×至1.6×，图片按次计费。新用户注册赠送10U体验额度，并提供充值优惠活动，具体规则以站内公告为准。",
+        "models": ["claude", "gpt", "gemini", "grok", "image"],
+        "features": ["cheap", "multi", "free"],
+        "price": "low",
+        "free_amount": "注册送10U体验额度",
+        "score": 8.8,
+        "response_time": 0.0,
+        "alive": true,
+        "last_check": "2026-09-09",
+        "check_count": 0,
+        "display_tags": ["多模型", "注册福利", "低价"],
+        "display_metrics": [
+            {"label": "福利", "value": "注册送10U", "cls": "green"},
+            {"label": "价格", "value": "0.04×起", "cls": "accent"},
+            {"label": "服务", "value": "注册即用", "cls": ""}
+        ],
+        "likes": 0
+    }
 ]
